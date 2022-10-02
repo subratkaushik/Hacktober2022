@@ -35,5 +35,5 @@
 ```bash
   my name is Subrat Kaushik. 
   I am interseted in 
-  machine learnig
+  machine learnig and web development
 ```
